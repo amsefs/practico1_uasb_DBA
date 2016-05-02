@@ -1,0 +1,2 @@
+-v muestra  la secuencia de pasos que realiza pg_dump  durante el proceso del backup.
+-a Permite obtener un backup de sólo de los datos y no del esquema.
